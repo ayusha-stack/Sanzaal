@@ -1,0 +1,212 @@
+*{
+    margin:5%;
+    padding:0px;
+
+}
+
+
+#trusted-by{
+    font-size: 60px;
+    font-style: Regular;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgba(4, 136, 136, 0.7);
+    fill: aquamarine;
+}
+#div-one{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#tovid-img{
+position: relative;
+width: 610px;
+height: 196px;
+
+
+
+}
+
+#gaming-sansar{
+position: relative;
+width: 621.72px;
+height: 196px;
+
+
+
+}
+#service-name{
+    
+    font-size: 60px;
+    font-style: Regular;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgba(4, 136, 136, 0.7);
+    fill: aquamarine;
+}
+    
+#container{
+    display:flex;
+    justify-content: space-evenly;
+}
+.pic-writing1{
+position: absolute;
+width: 244px;
+height: 38px;
+left: 140px;
+top: 450px;
+}
+.pic-writing2{
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 560px;
+    top: 430px;
+}
+.pic-writing3{
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 990px;
+    top: 430px;
+}
+.pic-writing4{
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 1400px;
+    top: 430px;
+
+}
+ 
+ 
+.heading{
+    top:45px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #000000;
+ }
+ .text-of-services{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+ }
+ 
+ #review{
+     display: flex;
+     justify-content: space-evenly;
+
+
+ }
+ .names{
+    
+    
+    height: 61px;
+    font-family: Averia Sans Libre;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    
+ }
+ #review-2{
+     
+    
+    width: 391px;
+    font-family: Bad Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    
+ }
+
+ #review-1{
+    width: 391px;
+    font-family: Bad Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    
+
+ }
+ #ending{
+    height: 500px;
+    background: #2B6060;
+    border-radius: 20px;
+    
+ }
+ 
+    
+    
+ 
+ #just-another{
+     display: flex;
+     justify-content: space-evenly;
+ }
+ .end-head{
+     
+font-family: Averia Libre;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 57px;
+
+color: #FFFFFF;
+ }
+ .text{
+    font-family: Asap;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+    
+ }
+ #icons{
+     display: flex;
+     justify-content: space-around;
+ }
+ #input-1{
+    width: 480px;
+    height: 60px;
+    font-size:30px;
+    font-display: center;
+    background: rgba(255, 255, 255, 0.64);
+    border-radius: 20px;
+ }
+ #input-2{
+    width: 480px;
+    height: 60px;
+    font-size:30px;
+    font-display: center;
+    background: rgba(255, 255, 255, 0.64);
+    border-radius: 20px;
+ }
+ .eind{
+    font-family: Asap;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    
+    color: #E5E5E5;
+    
+ }
+ #statement{
+     display:inline-flex;
+    
+     
+ }
+
+ 
+    
